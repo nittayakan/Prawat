@@ -1,4 +1,4 @@
-# Prawat<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6 {
 <body>
 
 <!-- Navbar (sit on top) -->
-    <div class="w3-top" style="max-width:980px;min-width:200px letter-spacing:3px;" >
+<div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card-2">
       <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-bicycle"></i> <b>Songkhla</b>  Go Go</a>
       <!-- Search box -->
