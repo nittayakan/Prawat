@@ -107,7 +107,7 @@ h1,h2,h3,h4,h5,h6 {
     </div>
 
     <div class="w3-col l6 w3-padding-large">
-      <img src="5.jpg" class="w3-margin-bottom" alt="ประติมากรรม "ประติมากรรมหว่านเมล็ดพันธุ์แห่งความซื่่อสัตย์และจงรักภักดีลงสู่แผ่นดิน"" width="100%" height="100%">
+      <img src="5.jpg" class="w3-margin-bottom" alt="ประติมากรรม "ประติมากรรมหว่านเมล็ดพันธุ์แห่งความซื่่อสัตย์และจงรักภักดีลงสู่แผ่นดิน" width="100%" height="100%">
       <br>
       <img src="3.jpg" alt="สวนประวัติศาสตร์" width="100%" height="100%">
     </div>
